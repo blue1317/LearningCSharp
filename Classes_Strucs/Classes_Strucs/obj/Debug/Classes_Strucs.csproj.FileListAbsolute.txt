@@ -1,0 +1,7 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\bin\Debug\Classes_Strucs.exe.config
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\bin\Debug\Classes_Strucs.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\bin\Debug\Classes_Strucs.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\obj\Debug\Classes_Strucs.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\obj\Debug\Classes_Strucs.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\obj\Debug\Classes_Strucs.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Classes_Strucs\Classes_Strucs\obj\Debug\Classes_Strucs.pdb

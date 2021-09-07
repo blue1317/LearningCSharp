@@ -1,0 +1,7 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\bin\Debug\strings.exe.config
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\bin\Debug\strings.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\bin\Debug\strings.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\obj\Debug\strings.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings\strings\obj\Debug\strings.pdb

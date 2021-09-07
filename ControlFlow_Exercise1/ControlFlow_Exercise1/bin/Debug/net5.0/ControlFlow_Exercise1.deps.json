@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ControlFlow_Exercise1/1.0.0": {
+        "runtime": {
+          "ControlFlow_Exercise1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlFlow_Exercise1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

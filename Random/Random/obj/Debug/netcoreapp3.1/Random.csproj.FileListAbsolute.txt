@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\bin\Debug\netcoreapp3.1\Random.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\bin\Debug\netcoreapp3.1\Random.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Random\Random\obj\Debug\netcoreapp3.1\Random.genruntimeconfig.cache

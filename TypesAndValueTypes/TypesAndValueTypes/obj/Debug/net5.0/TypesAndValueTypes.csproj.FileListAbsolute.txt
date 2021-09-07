@@ -1,0 +1,16 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\TypesAndValueTypes.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\TypesAndValueTypes.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\TypesAndValueTypes.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\TypesAndValueTypes.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\TypesAndValueTypes.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\ref\TypesAndValueTypes.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\bin\Debug\net5.0\TypesAndValueTypes.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\ref\TypesAndValueTypes.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\TypesAndValueTypes\TypesAndValueTypes\obj\Debug\net5.0\TypesAndValueTypes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\bin\Debug\netcoreapp3.1\StringExercises.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\bin\Debug\netcoreapp3.1\StringExercises.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\bin\Debug\netcoreapp3.1\StringExercises.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\bin\Debug\netcoreapp3.1\StringExercises.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\bin\Debug\netcoreapp3.1\StringExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\bin\Debug\netcoreapp3.1\StringExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringExercises\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.genruntimeconfig.cache

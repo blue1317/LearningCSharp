@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.genruntimeconfig.cache

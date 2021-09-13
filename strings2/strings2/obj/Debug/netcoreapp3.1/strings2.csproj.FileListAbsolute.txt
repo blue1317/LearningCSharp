@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\bin\Debug\netcoreapp3.1\strings2.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\bin\Debug\netcoreapp3.1\strings2.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\bin\Debug\netcoreapp3.1\strings2.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\bin\Debug\netcoreapp3.1\strings2.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\bin\Debug\netcoreapp3.1\strings2.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\bin\Debug\netcoreapp3.1\strings2.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\strings2\strings2\obj\Debug\netcoreapp3.1\strings2.genruntimeconfig.cache

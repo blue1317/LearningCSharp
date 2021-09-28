@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

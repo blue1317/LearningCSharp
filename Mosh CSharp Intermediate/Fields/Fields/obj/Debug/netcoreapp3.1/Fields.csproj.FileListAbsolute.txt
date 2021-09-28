@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache

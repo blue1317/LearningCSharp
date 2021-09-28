@@ -1,0 +1,16 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\UsingFiles.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\UsingFiles.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\UsingFiles.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\UsingFiles.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\UsingFiles.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\ref\UsingFiles.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\bin\Debug\net5.0\UsingFiles.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\ref\UsingFiles.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\UsingFiles\UsingFiles\obj\Debug\net5.0\UsingFiles.genruntimeconfig.cache

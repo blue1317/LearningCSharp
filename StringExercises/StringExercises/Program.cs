@@ -9,11 +9,30 @@ namespace StringExercises
     {
         static void Main(string[] args)
         {
-            //Program.Exercise1();
-            //Program.Exercise2();
-            //Program.Exercise3();
-            //Program.Exercise4();
-            Program.Exercise5();
+            System.Console.Write("What Program do you want to see (1-5): ");
+            var input = Convert.ToInt32(Console.ReadLine());
+            if (input == 1)
+            {
+                Exercise1();
+            }
+            else if (input == 2)
+            {
+                Exercise2();
+            }
+            else if (input == 3)
+            {
+                Exercise3();
+            }
+            else if (input == 4)
+            {
+                Exercise4();
+            }
+            else if (input == 5)
+            {
+                Exercise5();
+            }
+
+            System.Console.WriteLine();
         }
 
         public static void Exercise1()
@@ -125,31 +144,40 @@ namespace StringExercises
 
         public static void Exercise5()
         {
-            var numbers = new int[4] {2, 2, 13, 1};
-            var target = 15;
-            TwoSum(numbers, target);
-            
-        }
+            Console.Write("Enter a word: ");
+            var input = Console.ReadLine();
 
-        public static int[] TwoSum(int[] nums, int target)
-        {
-            var output = new int[2];
-            var j = 1;
-            for (int i = 0; i < nums.Length; i++)
+            if (string.IsNullOrWhiteSpace(input))
             {
-                if (nums[i] + nums[j] == target)
-                {
-                    output[0] = Array.IndexOf(nums, nums[i]);
-                    output[1] = Array.LastIndexOf(nums, nums[j]);
-                }
-
-                j++;
+                Console.WriteLine("Error");
+                return;
             }
 
-            Console.WriteLine("[{0},{1}]", output[0], output[1]);
+            var vowels = new List<char>();
+            var vowelCount = 0;
 
-            return output;
+            foreach (var letter in input.ToLower())
+            {
+                vowels.Add(letter);
+            }
 
+            foreach (var c in vowels)
+            {
+                switch (c)
+                {
+                    case 'a':
+                    case 'e':
+                    case 'i':
+                    case 'o':
+                    case 'u':
+                        vowelCount++;
+                        break;
+                }
+            }
+
+            Console.WriteLine("Your word '{0}' has {1} vowel(s)", input, vowelCount);
         }
+
+
     }
 }

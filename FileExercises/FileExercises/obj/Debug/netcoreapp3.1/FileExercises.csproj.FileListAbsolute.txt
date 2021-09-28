@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\netcoreapp3.1\FileExercises.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\netcoreapp3.1\FileExercises.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\netcoreapp3.1\FileExercises.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\netcoreapp3.1\FileExercises.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\netcoreapp3.1\FileExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\netcoreapp3.1\FileExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\netcoreapp3.1\FileExercises.genruntimeconfig.cache

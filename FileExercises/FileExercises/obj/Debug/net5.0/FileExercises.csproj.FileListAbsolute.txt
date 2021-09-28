@@ -1,0 +1,16 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\FileExercises.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\FileExercises.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\FileExercises.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\FileExercises.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\FileExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\ref\FileExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\bin\Debug\net5.0\FileExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\ref\FileExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\FileExercises\FileExercises\obj\Debug\net5.0\FileExercises.genruntimeconfig.cache

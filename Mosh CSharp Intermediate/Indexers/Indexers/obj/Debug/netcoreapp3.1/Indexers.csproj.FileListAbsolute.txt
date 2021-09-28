@@ -1,0 +1,14 @@
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Intermediate\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache

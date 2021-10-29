@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Intermediate\\Composition\\Composition\\Composition.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Intermediate\\Section 3 Association between Classes\\Composition\\Composition\\Composition.csproj",
       "projectName": "Composition",
-      "projectPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Intermediate\\Composition\\Composition\\Composition.csproj",
+      "projectPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Intermediate\\Section 3 Association between Classes\\Composition\\Composition\\Composition.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Intermediate\\Composition\\Composition\\obj\\",
+      "outputPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Intermediate\\Section 3 Association between Classes\\Composition\\Composition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

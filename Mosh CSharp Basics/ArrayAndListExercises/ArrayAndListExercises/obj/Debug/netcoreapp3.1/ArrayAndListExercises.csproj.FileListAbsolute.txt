@@ -12,3 +12,17 @@ C:\Users\Chris\Documents\Repos\LearningCSharp\ArrayAndListExercises\ArrayAndList
 C:\Users\Chris\Documents\Repos\LearningCSharp\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.dll
 C:\Users\Chris\Documents\Repos\LearningCSharp\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.pdb
 C:\Users\Chris\Documents\Repos\LearningCSharp\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.genruntimeconfig.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\bin\Debug\netcoreapp3.1\ArrayAndListExercises.exe
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\bin\Debug\netcoreapp3.1\ArrayAndListExercises.deps.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\bin\Debug\netcoreapp3.1\ArrayAndListExercises.runtimeconfig.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\bin\Debug\netcoreapp3.1\ArrayAndListExercises.runtimeconfig.dev.json
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\bin\Debug\netcoreapp3.1\ArrayAndListExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\bin\Debug\netcoreapp3.1\ArrayAndListExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.AssemblyInfo.cs
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.dll
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.pdb
+C:\Users\Chris\Documents\Repos\LearningCSharp\Mosh CSharp Basics\ArrayAndListExercises\ArrayAndListExercises\obj\Debug\netcoreapp3.1\ArrayAndListExercises.genruntimeconfig.cache

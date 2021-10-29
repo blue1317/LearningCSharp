@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\ArrayAndListExercises\\ArrayAndListExercises\\ArrayAndListExercises.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Basics\\ArrayAndListExercises\\ArrayAndListExercises\\ArrayAndListExercises.csproj",
       "projectName": "ArrayAndListExercises",
-      "projectPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\ArrayAndListExercises\\ArrayAndListExercises\\ArrayAndListExercises.csproj",
+      "projectPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Basics\\ArrayAndListExercises\\ArrayAndListExercises\\ArrayAndListExercises.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\ArrayAndListExercises\\ArrayAndListExercises\\obj\\",
+      "outputPath": "C:\\Users\\Chris\\Documents\\Repos\\LearningCSharp\\Mosh CSharp Basics\\ArrayAndListExercises\\ArrayAndListExercises\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,6 +14,8 @@ namespace ArrayAndListExercises
             //Program.Exercise3();
             //Program.Exercise4();
             //Program.Exercise5();
+            Console.WriteLine(TwoNumberSum(new int[] {-21, 301, 12, 4, 65, 56, 210, 356, 9, -47}, 163));
+            
         }
 
         public static void Exercise1()
@@ -145,6 +147,32 @@ namespace ArrayAndListExercises
                 Console.WriteLine(numbers[i]);
             }
 
+        }
+
+        public static int[] TwoNumberSum(int[] array, int targetSum) {
+            // Write your code here.
+            var output = new int[2];
+            var nullOutput = new int[0];
+            var noAnswer = false;
+        
+            for(var i = 0; i < array.Length; i++)
+            {
+                for(var j = 1; j < array.Length; j++)
+                {
+                    if (array[i] + array[j] == targetSum)
+                    {					
+                        output[0] = array[i];
+                        output[1] = array[j];
+                        if (output[0] == 0 && output[1] == 0)
+                            noAnswer = true;
+                    }
+                    else
+                    {
+                        noAnswer = true;
+                    }
+                }
+            }
+            return noAnswer == false ? output : nullOutput;
         }
     }
 }
